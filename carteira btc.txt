@@ -1,0 +1,11 @@
+C:\projetos\gerador-carteira-bitcoin>notepad gerar.js
+
+C:\projetos\gerador-carteira-bitcoin>node gerar.js
+================== GUARDE ISSO COM SEGURANÇA ==================
+Mnemônico (12 palavras): marble struggle hazard cloud motion more evil valid bench easy hard slow
+==============================================================
+
+=== DADOS DA CARTEIRA GERADA ===
+Endereço para receber Bitcoin (testnet): tb1qdwpvuvplpxaest83qtmvss7zvud23mm33hq3uj
+Chave privada (WIF - não compartilhe!): cQF6S6GkDabCwjKCyXChWeTApC76AGomASz1s6MpByPikbApbGco
+===================================
