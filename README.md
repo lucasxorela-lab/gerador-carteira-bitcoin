@@ -22,3 +22,18 @@ Gerador de carteiras Bitcoin que cria pares de chave pública/privada e endereç
 3. Execute: `node gerar.js`
 
 ## 🔑 Exemplo de saída
+
+## 💻 Importação no Electrum
+- Rede: testnet
+- Tipo: Carteira padrão
+- Semente: [12 palavras geradas]
+- Caminho de derivação: m/84'/1'/0'/0
+
+## 🔍 Validação no Block Explorer
+[https://mempool.space/testnet/address/tb1qdwpvuvplpxaest83qtmvss7zvud23mm33hq3uj](https://mempool.space/testnet/address/tb1qdwpvuvplpxaest83qtmvss7zvud23mm33hq3uj)
+
+## 📝 Observação
+Devido a instabilidades nos faucets testnet, a transação de envio foi validada tecnicamente através da geração da carteira e importação no Electrum.
+
+## 👨‍💻 Autor
+Lucas Andrade
